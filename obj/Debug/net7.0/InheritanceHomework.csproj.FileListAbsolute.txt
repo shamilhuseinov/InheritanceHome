@@ -1,0 +1,15 @@
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.deps.json
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.runtimeconfig.json
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.dll
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.pdb
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.csproj.AssemblyReference.cache
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.AssemblyInfoInputs.cache
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.AssemblyInfo.cs
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.dll
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/refint/InheritanceHomework.dll
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.pdb
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.genruntimeconfig.cache
+/Users/samil/Projects/InheritanceHomework/InheritanceHomework/obj/Debug/net7.0/ref/InheritanceHomework.dll
